@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Header from './components/Header';
+import Header from './src/components/Header';
 import HomePage from './components/HomePage';
 import Demo from './components/Demo';
 import SMSManager from './components/SMSManager';
