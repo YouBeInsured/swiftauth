@@ -4,7 +4,7 @@ import HomePage from './components/HomePage';
 import Demo from './components/Demo';
 import SMSManager from './components/SMSManager';
 import Security from './components/Security';
-import Dashboard from './components/Dashboard';
+import Dashboard from './components/src/components/Dashboard';
 import Pricing from './components/Pricing';
 import Upsells from './components/Upsells';
 import MarketAnalysis from './components/MarketAnalysis';
