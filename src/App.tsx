@@ -7,7 +7,7 @@ import Security from './components/Security';
 import Dashboard from './components/src/components/Dashboard';
 import Pricing from './components/Pricing';
 import Upsells from './components/Upsells';
-import MarketAnalysis from './components/MarketAnalysis';
+import MarketAnalysis from './components/src/components/MarketAnalysis';
 import BetaLaunch from './components/BetaLaunch';
 
 function App() {
